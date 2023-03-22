@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\bin\Debug\net6.0-windows\NetworkFormsApp.exe
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\bin\Debug\net6.0-windows\NetworkFormsApp.deps.json
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\bin\Debug\net6.0-windows\NetworkFormsApp.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\bin\Debug\net6.0-windows\NetworkFormsApp.dll
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\bin\Debug\net6.0-windows\NetworkFormsApp.pdb
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\obj\Debug\net6.0-windows\NetworkFormsApp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\obj\Debug\net6.0-windows\NetworkFormsApp.Form1.resources
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\obj\Debug\net6.0-windows\NetworkFormsApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\obj\Debug\net6.0-windows\NetworkFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\obj\Debug\net6.0-windows\NetworkFormsApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\obj\Debug\net6.0-windows\NetworkFormsApp.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\obj\Debug\net6.0-windows\NetworkFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\obj\Debug\net6.0-windows\NetworkFormsApp.dll
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\obj\Debug\net6.0-windows\refint\NetworkFormsApp.dll
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\obj\Debug\net6.0-windows\NetworkFormsApp.pdb
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\obj\Debug\net6.0-windows\NetworkFormsApp.genruntimeconfig.cache
+C:\Users\User\Documents\Visual Studio 2022\NetworkFormsApp\obj\Debug\net6.0-windows\ref\NetworkFormsApp.dll
